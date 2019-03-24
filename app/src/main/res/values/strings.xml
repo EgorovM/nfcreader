@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NFC reader</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="non_scanned">Не отсканировано</string>
+    <string name="grade">Класс</string>
+    <string name="name">Имя</string>
+
+</resources>
